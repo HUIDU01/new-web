@@ -1,0 +1,14 @@
+body {
+  background: url("C:/Users/Lenovo/Pictures/上半/3.jpg") no-repeat ;
+  background-size: cover;
+}
+p {
+  color: rgb(255, 255, 255);
+}
+site-name {
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.87);
+  font-weight: bold;
+  display: block;
+  text-align: center;
+
+}
